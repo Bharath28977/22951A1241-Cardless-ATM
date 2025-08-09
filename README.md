@@ -1,0 +1,2 @@
+# 22951A1241-Cardless-ATM
+A secure and user-friendly banking application that enables customers to withdraw cash from ATMs without using a physical debit or credit card. This system uses authentication methods such as OTP verification, QR code scanning, or mobile banking integration to ensure secure transactions. Designed to improve convenience and reduce the risks associated with lost or stolen cards.
